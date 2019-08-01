@@ -2,7 +2,6 @@
 """
 Created on Wed Jun 19 11:41:46 2019
 
-@author: Nitesh Sachdev
 """
 import tables
 
