@@ -2,7 +2,6 @@
 """
 Created on Sun Jun 23 14:38:22 2019
 
-@author: Nitesh Sachdev
 """
 #Importing the dataset using Pandas
 import pandas as pd
