@@ -2,7 +2,6 @@
 """
 Created on Mon Jun 24 11:25:37 2019
 
-@author: Nitesh Sachdev
 """
 import pandas as pd
 from sklearn.model_selection import train_test_split
