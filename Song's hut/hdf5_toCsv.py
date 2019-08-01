@@ -2,7 +2,6 @@
 """
 Created on Wed Jun 19 11:56:21 2019
 
-@author: Nitesh Sachdev
 """
 
 """
